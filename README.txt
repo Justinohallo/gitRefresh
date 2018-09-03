@@ -1,4 +1,6 @@
-GIT TEST
-Second Line
+do
+
 Updating Readme
-Feature1
+=======
+feature2
+feature2 chan>>>>>>> feature2_additional
